@@ -9,6 +9,11 @@
 
 ## Getting Started
 
+Clone this repository:
+   ```bash
+   git clone https://github.com/LeslieJR/coupons.git
+   ```
+
 Check server folder - follow the instructions in the README file
 
 Check client folder - follow the instructions in the README file
