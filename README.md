@@ -10,4 +10,5 @@
 ## Getting Started
 
 Check server folder - follow the instructions in the README file
+
 Check client folder - follow the instructions in the README file
