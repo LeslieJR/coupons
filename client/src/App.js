@@ -1,10 +1,10 @@
-import {DoughnutChart} from './components/DoughnutChart'
-import {DynamicDoughnutChart} from './components/DynamicDoughnutChart'
+import {PromotionsChart} from './components/PromotionsChart'
+import {PromotionsPerRetailer} from './components/PromotionsPerRetailer'
 function App() {
   return (
     <div className="container">
-      <DoughnutChart/>
-      <DynamicDoughnutChart />
+      <PromotionsChart/>
+      <PromotionsPerRetailer />
     </div>
   );
 }
