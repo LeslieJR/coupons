@@ -45,10 +45,10 @@ export function DoughnutChart() {
   }
 
   return (
-    <div>
-      <h2>Doughnut Chart </h2>
+    <>
+      <h2>Promotions Statistics</h2>
       <Doughnut data={data} />
-    </div>
+    </>
   );
 }
 
