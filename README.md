@@ -48,13 +48,13 @@ curl -X GET 'http://localhost:8080/api/coupons'
 ### Fetch statistics for a specific type of promotions:
 
 ```bash
-curl -X GET 'http://localhost:8080/api/couponsByType/:type'
+curl -X GET 'http://localhost:8080/api/coupons/type/:type'
 ```
 
 ### Fetch statistics for a specific retailer:
 
 ```bash
-curl -X GET 'http://localhost:8080/api/couponsByRetailer/:retailer'
+curl -X GET 'http://localhost:8080/api/coupons/retailer/:retailer'
 ```
 
 ## Error Handling
