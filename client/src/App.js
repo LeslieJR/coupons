@@ -1,8 +1,8 @@
-import {DoughtnutChart} from './components/DoughtnutChart'
+import {DoughnutChart} from './components/DoughnutChart'
 function App() {
   return (
     <div className="container">
-      <DoughtnutChart/>
+      <DoughnutChart/>
     </div>
   );
 }
